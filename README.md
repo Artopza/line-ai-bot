@@ -1,10 +1,7 @@
 # line-ai-bot
 git init
+git remote add origin https://github.com/Artopza/line-ai-bot.git
 git add .
-git commit -m "initial commit"
-git remote add origin https://github.com/yourname/line-ai-bot.git
-git push -u origin master
-git branch
-git add requirements.txt
-git push origin main
-git commit -m "Push full project with app.py and requirements.txt"
+git commit -m "Initial full commit with app.py and requirements.txt"
+git branch -M main
+git push -u origin main

@@ -7,3 +7,4 @@ git push -u origin master
 git add requirements.txt
 git commit -m "move requirements.txt to root"
 git push origin main
+git branch
